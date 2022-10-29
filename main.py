@@ -16,5 +16,6 @@ if __name__ == '__main__':
 print("aaaaa")
 print("Open pull request")
 print("ficha2")
+print("test2")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
